@@ -1,6 +1,6 @@
 # v8-load-js-file
 
-v8 嵌入js 应用中并实现模块化加载 js 文件的例子(commonjs)
+v8 嵌入 C++ 应用中并实现模块化加载 js 文件的例子(commonjs)
 
 > app.js
 
